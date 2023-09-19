@@ -1,0 +1,23 @@
+body {
+  background: #101010;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+label {
+  display: block;
+}
+
+input,
+select {
+  width: 100%;
+}
+
+span {
+  color: tomato;
+  font-size: x-small;
+  display: block;
+}
